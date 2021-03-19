@@ -34,9 +34,9 @@ Due to the complexity of classifiers like CNNs and other neural networks, key de
 2. Bång A, Grip L, Herlitz J, et al. Lower mortality after prehospitalrecognition and treatment followed by fast tracking to coronary carecompared with admittance via emergency department in patients withST-elevation myocardial infarction. Int J Cardiol 2008;129:325-32
 3. https://nihcr.org/wp-content/uploads/2017/06/NIHCR_Altarum_Detroit_EMS_Brief_5-30-17.pdf
 4. https://www.tandfonline.com/doi/abs/10.3109/10903127.2012.722176
-5. Wenhan Liu, Mengxin Zhang, et al. Real-Time Multilead Convolutional NeuralNetwork for Myocardial Infarction Detection IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS 2018 https://ieeexplore.ieee.org/document/8103330 
+5. Wenhan Liu, Mengxin Zhang, et al. Real-Time Multilead Convolutional NeuralNetwork for Myocardial Infarction Detection IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS 2018 [IEE] (https://ieeexplore.ieee.org/document/8103330) 
 6. Yeonghyeon Park, Il Dong Yun, Si-hyuk Kang. Preprocessing Method for Performance Enhancement in CNN-Based STEMI Detection From 12-Lead ECG  IEEE Access 2019
-Link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771175 
+Link: [IEE] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8771175) 
 7. Ran Xiao, Yuan Xu, Michele M. Pelter, et al. A Deep Learning Approach to Examine Ischemic ST Changes in Ambulatory ECG Recordings. AMIA Jt Summits Transl Sci Proc. 2018
 Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961830/ 
 8. Salah Al-Zaiti, Lucas Besomi, Zeineb Bouzid, et al. Machine learning-based prediction of acute coronary syndrome using only the pre-hospital 12-lead electrocardiogram. Nature 2020
